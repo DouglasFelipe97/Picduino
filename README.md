@@ -4,6 +4,10 @@ Projetado e criado por Douglas Felipe 05/2021
 
 Projetado na plataforma KiCad 5.19.
 
+Programado MPLabx 5.10.
+
+Compilador Xc8 1.30.
+
 Linkedin https://www.linkedin.com/in/douglas-felipe-57960716a
 
 ------------------------------------------------------------------------------------------------------
