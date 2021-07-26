@@ -1,0 +1,19 @@
+___awdiv: CODE, 1161 0 91
+_LCD_String: CODE, 625 0 21
+_LCD_Init: CODE, 760 0 47
+_CheckResponse: CODE, 646 0 26
+__stringtab: STRING, 3 0 6
+__stringdata: STRING, 9 0 44
+_LCD_Command: CODE, 1397 0 145
+_LCD_String_xy: CODE, 1075 0 86
+_StartSignal: CODE, 672 0 27
+_main: CODE, 1542 0 482
+_LCD_Char: CODE, 1252 0 145
+_LCD_Char_xy: CODE, 991 0 84
+__initialization: CODE, 2024 0 20
+_delay_1s: CODE, 727 0 33
+___lwdiv: CODE, 859 0 62
+_LCD_Clear: CODE, 592 0 16
+_ReadByte: CODE, 921 0 70
+___lwmod: CODE, 807 0 52
+Total: 1457
