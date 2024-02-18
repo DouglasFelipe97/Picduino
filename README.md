@@ -1,6 +1,7 @@
 # Picduino Versão 2.0 #
 ------------------------------------------------------------------------------------------------------
 Projetado e criado por Douglas Felipe 05/2021
+                       -ATUALIZADO em 02/2024
 
 Projetado na plataforma KiCad 5.19.
 
